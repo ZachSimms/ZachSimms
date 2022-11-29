@@ -2,7 +2,7 @@
 
 I'm a full time university student pursuing a B.S. in Computer Science with a minor in Mathematics. In my free time I work on developing my programming skills, working out, gaming, and reading. Thank you for checking out my profile :smiley:
 
-- :computer: I’m currently learning Python
+- :computer: I’m currently learning Javascript, React, and Three.js
 - 🤝 I’m interested in Software Engineering internships
 
 #### Get in touch
