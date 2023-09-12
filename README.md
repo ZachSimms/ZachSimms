@@ -4,9 +4,9 @@ Hi 👋 My name is Zach Simms
 Comp Sci Student | Software Engineer
 ------------------------------------
 
-I'm a full time university student pursuing a B.S. in Computer Science with a minor in Mathematics. Right now my focus is on building web-based applications with HTML, CSS, and JavaScript. Thank you for checking out my profile.
+I'm a full time university student pursuing a B.S. in Computer Science with a minor in Mathematics. Right now my focus is on building web-based applications with HTML, CSS, and JavaScript. I'm interested in the product management field and startup space as well. Thank you for checking out my profile.
 
-* 🌍  I'm based in Midwest, USA
+* 🌍  I'm based in Omaha, USA
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Web Applications
 
