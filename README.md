@@ -3,11 +3,11 @@ Hi 👋 My name is Zach Simms
 
 ### Comp Sci Student | Software Engineer
 
-I'm a full-time university student pursuing a B.S. in Computer Science. Right now my focus is landing a job. I'm interested in the product management field and startup space. Thank you for checking out my profile.
+I've recently gotten my degree in computer science and enjoy building things (mainly web apps). I'm interested in the product/project management and software development fields and indie hacker space. Thank you for checking out my profile!
 
 * 🌍  I'm based in Omaha, USA
-* 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaboration
+* 🧠  I'm learning HTML, CSS, JS
+* 🤝  I'm NOT open to collaboration at the moment
 
 ### Skills
 
