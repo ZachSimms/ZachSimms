@@ -1,7 +1,7 @@
 Hi 👋 My name is Zach Simms
 ===========================
 
-### Comp Sci Student | Software Engineer
+### Software Engineer/Dev
 
 I've recently gotten my degree in computer science and enjoy building things (mainly web apps). I'm interested in the product/project management and software development fields and indie hacker space. Thank you for checking out my profile!
 
