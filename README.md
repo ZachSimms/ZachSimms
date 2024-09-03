@@ -9,6 +9,9 @@ I've recently gotten my degree in computer science and enjoy building things (ma
 * 🧠  I'm learning HTML, CSS, JS
 * 🤝  I'm NOT open to collaboration at the moment
 
+### Goals
+- Build profitable web apps to reach $100K+ revenue per year
+
 ### Skills
 
 
